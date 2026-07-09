@@ -142,19 +142,6 @@ npm start
 
 ---
 
-## Application Screenshots
-
-Add screenshots for:
-
-* Home Page
-* Property Listings Page
-* Property Details Page
-* Property Visit Booking
-* Favorites Section
-* User Dashboard
-
----
-
 ## Key Contributions
 
 * Developed a full-stack real estate platform using React, Node.js, Express.js, MongoDB, and Prisma ORM.
